@@ -11,6 +11,6 @@
 # Terminal
 ```
 npm i angular-cli-ghpages --save-dev
-npm build --base-href=/<repository name>/
+ng build --base-href=/<repository name>/
 npx angular-cli-ghpages --dir=dist/<repository name>
 ```
